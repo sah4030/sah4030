@@ -11,7 +11,9 @@ I'm an M.S.-trained computational biologist with experience applying machine lea
 
 ## 📌 Projects
 
-- [RNA-seq GO Analysis Pipeline](https://github.com/sah4030/rna-seq-pipeline-go-analysis) — Transcriptomic profiling of irinotecan-treated cell lines using ANGSD, DESeq2, and GO term enrichment.
-- *Coming soon:* STING variant ML classifier using AlphaFold2-derived structural features
+- **[RNA-seq GO Analysis Pipeline](https://github.com/sah4030/rna-seq-pipeline-go-analysis)** — Transcriptomic profiling of irinotecan-treated cancer cell lines using ANGSD, DESeq2, and GO term enrichment tools.
+- **[AI in Healthcare: COVID Impact on Stress & Sleep](https://github.com/sah4030/ai-in-healthcare-project)** — Analyzed mobile sensing and survey data to model the relationship between sleep, stress, and COVID-era behavioral shifts (Cornell Tech project).
+- **Coming soon:** STING variant ML classifier using AlphaFold2-derived structural features and XGBoost.
 
 📫 Reach me: [sophiaahoward77@gmail.com](mailto:sophiaahoward77@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sophia-howard-11486a161/)
+
